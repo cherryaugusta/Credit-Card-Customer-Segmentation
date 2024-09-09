@@ -1,5 +1,5 @@
 # Credit Card Customer Segmentation: An Unsupervised Machine Learning Analysis
-## Project Description
+## Project Introduction
 
 In this project, the role of a data scientist at a credit card company is assumed. The task involves analyzing a dataset containing information about the company’s clients, with the aim of segmenting them into distinct groups. This segmentation will allow the company to tailor different business strategies to each customer group.
 
