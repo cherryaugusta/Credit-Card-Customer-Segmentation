@@ -1,4 +1,7 @@
 # Credit Card Customer Segmentation: An Unsupervised Machine Learning Analysis
+
+This project is based on Dataquest’s guided project, ["Credit Card Customer Segmentation,"](https://www.dataquest.io/projects/guided-project-a-credit-card-customer-segmentation/) which provided an initial framework and dataset. I completed this project as part of my own learning experience.
+
 ## Project Introduction
 
 In this project, the role of a data scientist at a credit card company is assumed. The task involves analyzing a dataset containing information about the company’s clients, with the aim of segmenting them into distinct groups. This segmentation will allow the company to tailor different business strategies to each customer group.
